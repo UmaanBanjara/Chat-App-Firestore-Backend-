@@ -41,6 +41,8 @@ dependencies:
   flutter_bloc: ^9.1.0
   equatable: ^2.0.7
   flutter_contacts: ^1.1.9+2
+  emoji_picker_flutter: ^4.3.0
+  intl: ^0.20.2
 
 dev_dependencies:
   flutter_test:
